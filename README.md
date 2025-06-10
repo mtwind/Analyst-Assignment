@@ -27,7 +27,7 @@ The PSAR indicator is used to determine the direction of the trend and identify 
   - Rising PSAR (RPSAR): The calculated SAR value for an uptrend.
   - Falling PSAR (FPSAR): The calculated SAR value for a downtrend.
 
-![PSAR](images\PSAR.png)
+![PSAR](/images/PSAR.png)
 
 ### Relative Strength Index (RSI)
 
@@ -37,7 +37,7 @@ The RSI is a momentum oscillator that measures the speed and magnitude of a secu
   - Average Gain: The average of price increases over a specific period.
   - Average Loss: The average of price decreases over a specific period.
 
-![RSI](images\RSI.png)
+![RSI](/images/RSI.png)
 
 ## Signal Generation and Returns
 
@@ -56,7 +56,7 @@ The strategy's performance is evaluated by calculating the portfolio's value ove
 
 The strategy was backtested on various tickers, including AMZN, TSLA, and GOOGL, over a four-year period from January 1, 2020, to January 1, 2024.
 
-![Backtesting](images\backtesting.png)
+![Backtesting](/images/backtesting.png)
 
 ### Strategy Effectiveness Metrics
 
